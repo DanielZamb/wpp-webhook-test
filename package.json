@@ -1,0 +1,22 @@
+{
+  "name": "finance-tracker-wpp-proj",
+  "version": "1.0.0",
+  "description": "test-webhook",
+  "main": "app.js",
+  "scripts": {
+    "test": "run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielZamb/wpp-webhook-test.git"
+  },
+  "author": "DanielZam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielZamb/wpp-webhook-test/issues"
+  },
+  "homepage": "https://github.com/DanielZamb/wpp-webhook-test#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
